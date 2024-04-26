@@ -1,0 +1,11 @@
+* {
+  margin: 0%;
+}
+
+.card-group {
+  justify-content: space-between;
+}
+
+.d-flex {
+  justify-content: flex-end;
+}
